@@ -349,7 +349,7 @@ private:
 {
 
 
-	int cand_count = 80;
+	int cand_count = 50;
 
 	int i,e;
     int v1,v2,v;
